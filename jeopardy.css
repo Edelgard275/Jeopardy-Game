@@ -8,9 +8,33 @@
 header {
   text-align:center
 }
+
 #jeopardy {
   text-align: center;
   font-size: 10pt;
   background-color:#115ff4;
   color:   #8d2ab5
+}
+
+.question {
+  background-color: #115ff4;
+}
+
+.answer {
+  background-color: #28a200;
+}
+
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+td {
+  border: 2px solid #8c6b48;
+  width: 300px;
+  height: 100px;
+}
+
+th {
+  border: 2px solid #8c6b48;
 }
